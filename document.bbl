@@ -19,6 +19,161 @@
 
 \refsection{0}
   \sortlist[entry]{anyt/global/}
+    \entry{Downham.2000}{article}{}
+      \name{author}{2}{}{%
+        {{hash=78f38b757168408dcfac94fd4840ce41}{%
+           family={Downham},
+           family_i={D\bibinitperiod},
+           given={Alison},
+           given_i={A\bibinitperiod}}}%
+        {{hash=85bbb1bac6f250af0005b809946c9984}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{98a57232af449c592081280b25e3a03d}
+      \strng{fullhash}{98a57232af449c592081280b25e3a03d}
+      \field{labelalpha}{DC00}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09505423}
+      \field{journaltitle}{International Journal of Food Science {\&} Technology}
+      \field{number}{1}
+      \field{title}{Colouring our foods in the last and next millennium}
+      \field{volume}{35}
+      \field{year}{2000}
+      \field{pages}{5\bibrangedash 22}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1046/j.1365-2621.2000.00373.x
+      \endverb
+      \warn{\item Datamodel: Entry 'Downham.2000' (references.bib): Invalid format '03.10.2016' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Hamatschek.2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f966faa21dc02accfa2f605deb80f1db}{%
+           family={Hamatschek},
+           family_i={H\bibinitperiod},
+           given={Jochen},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Verlag Eugen Ulmer}%
+      }
+      \strng{namehash}{f966faa21dc02accfa2f605deb80f1db}
+      \strng{fullhash}{f966faa21dc02accfa2f605deb80f1db}
+      \field{labelalpha}{Ham16}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783825243425}
+      \field{series}{UTB Lebensmittel-, Ernährungs- und Agrarwissenschaften, Ökotrophologie}
+      \field{title}{Lebensmitteltechnologie: Die industrielle Herstellung von Lebensmitteln aus landwirtschaftlichen Rohstoffen : 129 Abbildungen, 21 Tabellen}
+      \field{volume}{4342}
+      \field{year}{2016}
+    \endentry
+    \entry{HarryMeggos.1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f8b69bf5765c29fbcf3599a7b1b539c5}{%
+           family={{Harry Meggos}},
+           family_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8b69bf5765c29fbcf3599a7b1b539c5}
+      \strng{fullhash}{f8b69bf5765c29fbcf3599a7b1b539c5}
+      \field{labelalpha}{Har95}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Food colours: an international perspective: The Manufacturing Confectioner}
+      \field{year}{1995}
+    \endentry
+    \entry{Heinze.1986}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=b53e7b6641a893027a9a46c739d529f9}{%
+           family={Heinze},
+           family_i={H\bibinitperiod},
+           given={Ulrich},
+           given_i={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Reinbek bei Hamburg}%
+      }
+      \list{publisher}{1}{%
+        {Rowohlt}%
+      }
+      \strng{namehash}{b53e7b6641a893027a9a46c739d529f9}
+      \strng{fullhash}{b53e7b6641a893027a9a46c739d529f9}
+      \field{labelalpha}{Hei86}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{29. - 36. Tsd}
+      \field{isbn}{3498034421}
+      \field{title}{Was wir alles schlucken: Zusatzstoffe in Lebensmitteln ; mit Tips für d. Verbraucher}
+      \field{year}{1986}
+    \endentry
+    \entry{Jenette.1983}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d9b7db4dcc1cc8d8f340a46f50cb5079}{%
+           family={Jenette},
+           family_i={J\bibinitperiod},
+           given={Alfred},
+           given_i={A\bibinitperiod}}}%
+        {{hash=0c59dad05f77044d9f1a9afdf568c5b0}{%
+           family={Glöckner},
+           family_i={G\bibinitperiod},
+           given={Wolfgang},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Köln}%
+      }
+      \list{publisher}{1}{%
+        {Aulis}%
+      }
+      \strng{namehash}{b9eedc0a751abd804067d920b7f71697}
+      \strng{fullhash}{b9eedc0a751abd804067d920b7f71697}
+      \field{labelalpha}{JG83}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4., neubearb. Aufl.}
+      \field{isbn}{3761406304}
+      \field{series}{Praxis-Schriftenreihe Abteilung Chemie}
+      \field{title}{Farbe, Farbstoff, Färben}
+      \field{volume}{13}
+      \field{year}{1983}
+    \endentry
+    \entry{Natcol.2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=aac4861b4bf363cf52258725e6fe9b1d}{%
+           family={Natcol},
+           family_i={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{aac4861b4bf363cf52258725e6fe9b1d}
+      \strng{fullhash}{aac4861b4bf363cf52258725e6fe9b1d}
+      \field{labelalpha}{Nat16}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to the Legislation of Food Colours in Europe}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://natcol.org/library/introduction-food-colours-legislation/
+      \endverb
+      \warn{\item Datamodel: Entry 'Natcol.2016' (references.bib): Invalid format '05.10.2016' of date field 'urldate' - ignoring}
+    \endentry
     \entry{Schobert.2007}{book}{}
       \name{author}{1}{}{%
         {{hash=ec37f03124689491636388d2772e6e22}{%
@@ -45,7 +200,40 @@
       \field{title}{Zusatzstoff-Ampel: E-Nummern, Farbstoffe {\&} Co. ; schädlich oder unbedenklich? Was das Etikett verrät}
       \field{year}{2007}
     \endentry
+    \entry{Stahl.1986}{book}{}
+      \name{author}{2}{}{%
+        {{hash=034ed64148c48c13466b58dd5fa147ff}{%
+           family={Stahl},
+           family_i={S\bibinitperiod},
+           given={Egon},
+           given_i={E\bibinitperiod}}}%
+        {{hash=f51918a57aa0acd3282354ee24dd66da}{%
+           family={Schild},
+           family_i={S\bibinitperiod},
+           given={Werner},
+           given_i={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Fischer}%
+      }
+      \strng{namehash}{5a047427113eb2d6a3d4df8f15a74706}
+      \strng{fullhash}{5a047427113eb2d6a3d4df8f15a74706}
+      \field{labelalpha}{SS86}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3437305115}
+      \field{title}{Isolierung und Charakterisierung von Naturstoffen: 2 Tabellen, 53 Formeln, 53 Spektren}
+      \field{year}{1986}
+    \endentry
   \endsortlist
+  \missing{1984}
+  \missing{EFSAisanagencyoftheEuropeanUnion.2016}
+  \missing{Wittke}
 \endrefsection
 \endinput
 

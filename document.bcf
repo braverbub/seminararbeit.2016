@@ -2098,8 +2098,21 @@
     <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Schobert.2007</bcf:citekey>
-    <bcf:citekey order="2">Schobert.2007</bcf:citekey>
+    <bcf:citekey order="1">Hamatschek.2016</bcf:citekey>
+    <bcf:citekey order="2">HarryMeggos.1995</bcf:citekey>
+    <bcf:citekey order="3">Natcol.2016</bcf:citekey>
+    <bcf:citekey order="3">Downham.2000</bcf:citekey>
+    <bcf:citekey order="4">Heinze.1986</bcf:citekey>
+    <bcf:citekey order="5">Jenette.1983</bcf:citekey>
+    <bcf:citekey order="6">EFSAisanagencyoftheEuropeanUnion.2016</bcf:citekey>
+    <bcf:citekey order="7">Heinze.1986</bcf:citekey>
+    <bcf:citekey order="8">Schobert.2007</bcf:citekey>
+    <bcf:citekey order="9">Wittke</bcf:citekey>
+    <bcf:citekey order="9">1984</bcf:citekey>
+    <bcf:citekey order="10">Wittke</bcf:citekey>
+    <bcf:citekey order="10">1984</bcf:citekey>
+    <bcf:citekey order="11">Stahl.1986</bcf:citekey>
+    <bcf:citekey order="12">Stahl.1986</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
