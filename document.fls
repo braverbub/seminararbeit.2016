@@ -1,0 +1,36 @@
+PWD C:/Users/lukas/OneDrive/Dokumente/Seminararbeit
+INPUT C:/Users/lukas/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT document.tex
+OUTPUT document.log
+INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/luatex85/luatex85.sty
+INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/luatex85/luatex85.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrreprt.cls
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrreprt.cls
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrkbase.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrkbase.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrbase.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrbase.sty
+INPUT E:/Program Files/Miktex/tex/latex/graphics/keyval.sty
+INPUT E:/Program Files/Miktex/tex/latex/graphics/keyval.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlfile.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlfile.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/tocbasic.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/tocbasic.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrsize11pt.clo
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrsize11pt.clo
+INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmr10.tfm
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/typearea.sty
+INPUT E:/Program Files/Miktex/tex/latex/koma-script/typearea.sty
+INPUT E:/Program Files/Miktex/tex/latex/fontspec/fontspec.sty
+INPUT E:/Program Files/Miktex/tex/latex/fontspec/fontspec.sty
+INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3.sty
+INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3.sty
+INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3-code.tex
+INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3-code.tex
+INPUT E:/Program Files/Miktex/tex/generic/unicode-data/UnicodeData.txt
+INPUT E:/Program Files/Miktex/tex/generic/unicode-data/CaseFolding.txt
+INPUT E:/Program Files/Miktex/tex/generic/unicode-data/SpecialCasing.txt
+INPUT E:/Program Files/Miktex/tex/latex/l3kernel/l3pdfmode.def
+INPUT E:/Program Files/Miktex/tex/latex/l3kernel/l3pdfmode.def
+INPUT E:/Program Files/Miktex/tex/latex/l3packages/xparse/xparse.sty
+INPUT E:/Program Files/Miktex/tex/latex/l3packages/xparse/xparse.sty
