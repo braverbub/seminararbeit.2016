@@ -1,403 +1,402 @@
-PWD C:/Users/lukas/OneDrive/Seminararbeit
-INPUT C:/Users/lukas/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
-INPUT document.tex
+PWD C:/Users/lukas/OneDrive/Dokumente/seminararbeit.2016
+INPUT c:/texlive/2016/texmf.cnf
+INPUT c:/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ./document.tex
 OUTPUT document.log
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrreprt.cls
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrreprt.cls
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrkbase.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrkbase.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrbase.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrbase.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/keyval.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/keyval.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlfile.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlfile.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/tocbasic.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/tocbasic.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrsize11pt.clo
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrsize11pt.clo
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmr10.tfm
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/typearea.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/typearea.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsmath.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsmath.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amstext.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amstext.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsgen.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsgen.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsbsy.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsbsy.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsopn.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsmath/amsopn.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsfonts/amssymb.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsfonts/amssymb.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsfonts/amsfonts.sty
-INPUT E:/Program Files/Miktex/tex/latex/amsfonts/amsfonts.sty
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/mathpazo.sty
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/mathpazo.sty
-INPUT E:/Program Files/Miktex/tex/latex/xcharter/XCharter.sty
-INPUT E:/Program Files/Miktex/tex/latex/xcharter/XCharter.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/fontenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/fontenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/ly1/ly1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/ly1/ly1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/base/t1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/base/t1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/t1ptm.fd
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/t1ptm.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT E:/Program Files/Miktex/tex/latex/base/textcomp.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/textcomp.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/ts1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/base/ts1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/mweights/mweights.sty
-INPUT E:/Program Files/Miktex/tex/latex/mweights/mweights.sty
-INPUT E:/Program Files/Miktex/tex/latex/mweights/mweights.sty
-INPUT E:/Program Files/Miktex/tex/latex/etoolbox/etoolbox.sty
-INPUT E:/Program Files/Miktex/tex/latex/etoolbox/etoolbox.sty
-INPUT E:/Program Files/Miktex/tex/latex/fontaxes/fontaxes.sty
-INPUT E:/Program Files/Miktex/tex/latex/fontaxes/fontaxes.sty
-INPUT E:/Program Files/Miktex/tex/latex/fontaxes/fontaxes.sty
-INPUT E:/Program Files/Miktex/tex/latex/xkeyval/xkeyval.sty
-INPUT E:/Program Files/Miktex/tex/latex/xkeyval/xkeyval.sty
-INPUT E:/Program Files/Miktex/tex/latex/xkeyval/xkeyval.sty
-INPUT E:/Program Files/Miktex/tex/generic/xkeyval/xkeyval.tex
-INPUT E:/Program Files/Miktex/tex/generic/xkeyval/xkvutils.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/cabin/cabin.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/cabin/cabin.sty
-INPUT E:/Program Files/Miktex/tex/generic/ifxetex/ifxetex.sty
-INPUT E:/Program Files/Miktex/tex/generic/ifxetex/ifxetex.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ifluatex.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ifluatex.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/fontenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/fontenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/inputenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/inputenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/utf8.def
-INPUT E:/Program Files/Miktex/tex/latex/base/utf8.def
-INPUT E:/Program Files/Miktex/tex/latex/base/t1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/t1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/ot1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/ot1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/omsenc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/omsenc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/ly1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/ly1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/ts1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/ts1enc.dfu
-INPUT E:/Program Files/Miktex/tex/latex/base/fontenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/fontenc.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/t1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/base/t1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/xcolor/xcolor.sty
-INPUT E:/Program Files/Miktex/tex/latex/xcolor/xcolor.sty
-INPUT E:/Program Files/Miktex/tex/latex/00miktex/color.cfg
-INPUT E:/Program Files/Miktex/tex/latex/00miktex/color.cfg
-INPUT E:/Program Files/Miktex/tex/latex/graphics-def/pdftex.def
-INPUT E:/Program Files/Miktex/tex/latex/graphics-def/pdftex.def
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/infwarerr.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/infwarerr.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ltxcmds.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ltxcmds.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/dvipsnam.def
-INPUT E:/Program Files/Miktex/tex/latex/graphics/dvipsnam.def
-INPUT E:/Program Files/Miktex/tex/latex/csquotes/csquotes.sty
-INPUT E:/Program Files/Miktex/tex/latex/csquotes/csquotes.sty
-INPUT E:/Program Files/Miktex/tex/latex/csquotes/csquotes.def
-INPUT E:/Program Files/Miktex/tex/latex/csquotes/csquotes.def
-INPUT E:/Program Files/Miktex/tex/latex/csquotes/csquotes.cfg
-INPUT E:/Program Files/Miktex/tex/latex/csquotes/csquotes.cfg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/marginnote/marginnote.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/marginnote/marginnote.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/frontendlayer/tikz.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/frontendlayer/tikz.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgf.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgf.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfrcs.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfrcs.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfutil-common.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfutil-common-lists.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfutil-latex.def
-INPUT E:/Program Files/Miktex/tex/latex/ms/everyshi.sty
-INPUT E:/Program Files/Miktex/tex/latex/ms/everyshi.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfrcs.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfrcs.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgfcore.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/basiclayer/pgfcore.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/graphicx.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/graphicx.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/graphics.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/graphics.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/trig.sty
-INPUT E:/Program Files/Miktex/tex/latex/graphics/trig.sty
-INPUT E:/Program Files/Miktex/tex/latex/00miktex/graphics.cfg
-INPUT E:/Program Files/Miktex/tex/latex/00miktex/graphics.cfg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/systemlayer/pgfsys.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/systemlayer/pgfsys.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgf.cfg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcore.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcore.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathcalc.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathutil.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathparser.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmathfloat.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgffor.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgffor.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/math/pgfmath.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgf/math/pgfmath.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgffor.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/utilities/pgffor.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/math/pgfmath.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplots.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplots.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrreprt.cls
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrreprt.cls
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/tocbasic.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/tocbasic.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+INPUT c:/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/mathpazo.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/mathpazo.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xcharter/XCharter.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xcharter/XCharter.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/ly1/ly1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/ly1/ly1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/mweights/mweights.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/mweights/mweights.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/mweights/mweights.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/cabin/cabin.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/cabin/cabin.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ly1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ly1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/marginnote/marginnote.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/marginnote/marginnote.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex
 INPUT pgfsys-luatex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotscore.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgflibraryfpu.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfmathfloat.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsutil.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/util/pgfplotscolor.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsstackedplots.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.scaling.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.errorbars.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.markers.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplotsticks.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.paths.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplotstable.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/pgfplots/pgfplotstable.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/pgfplots.revision.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/numtable/pgfplotstable.code.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/generic/pgfplots/numtable/pgfplotstable.coltype.code.tex
-INPUT E:/Program Files/Miktex/tex/latex/tools/array.sty
-INPUT E:/Program Files/Miktex/tex/latex/tools/array.sty
-INPUT E:/Program Files/Miktex/tex/latex/geometry/geometry.sty
-INPUT E:/Program Files/Miktex/tex/latex/geometry/geometry.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ifpdf.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ifpdf.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ifvtex.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/ifvtex.sty
-INPUT E:/Program Files/Miktex/tex/latex/geometry/geometry.cfg
-INPUT E:/Program Files/Miktex/tex/latex/geometry/geometry.cfg
-INPUT E:/Program Files/Miktex/tex/generic/babel/babel.sty
-INPUT E:/Program Files/Miktex/tex/generic/babel/babel.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/arabi/bblopts.cfg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/arabi/bblopts.cfg
-INPUT E:/Program Files/Miktex/tex/latex/babel-german/ngerman.ldf
-INPUT E:/Program Files/Miktex/tex/latex/babel-german/ngerman.ldf
-INPUT E:/Program Files/Miktex/tex/latex/babel-german/ngermanb.ldf
-INPUT E:/Program Files/Miktex/tex/generic/babel/babel.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/biblatex.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/biblatex.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/iftex/iftex.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/iftex/iftex.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/pdftexcmds.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/pdftexcmds.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/kvoptions.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/kvoptions.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/kvsetkeys.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/kvsetkeys.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/etexcmds.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/etexcmds.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/logreq/logreq.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/logreq/logreq.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/logreq/logreq.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/logreq/logreq.def
-INPUT E:/Program Files/Miktex/tex/latex/base/ifthen.sty
-INPUT E:/Program Files/Miktex/tex/latex/base/ifthen.sty
-INPUT E:/Program Files/Miktex/tex/latex/url/url.sty
-INPUT E:/Program Files/Miktex/tex/latex/url/url.sty
-INPUT E:/Program Files/Miktex/tex/latex/xstring/xstring.sty
-INPUT E:/Program Files/Miktex/tex/latex/xstring/xstring.sty
-INPUT E:/Program Files/Miktex/tex/generic/xstring/xstring.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/blx-dm.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/blx-dm.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/blx-compat.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/blx-compat.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/biblatex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/biblatex.def
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/bbx/alphabetic.bbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/bbx/alphabetic.bbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/bbx/standard.bbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/bbx/standard.bbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/cbx/alphabetic.cbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/cbx/alphabetic.cbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/biblatex.cfg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/biblatex.cfg
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlayer-scrpage.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlayer-scrpage.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlayer.sty
-INPUT E:/Program Files/Miktex/tex/latex/koma-script/scrlayer.sty
-INPUT E:/Program Files/Miktex/tex/latex/setspace/setspace.sty
-INPUT E:/Program Files/Miktex/tex/latex/setspace/setspace.sty
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx.sty
-INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3.sty
-INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3.sty
-INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3-code.tex
-INPUT E:/Program Files/Miktex/tex/latex/l3kernel/expl3-code.tex
-INPUT E:/Program Files/Miktex/tex/generic/unicode-data/UnicodeData.txt
-INPUT E:/Program Files/Miktex/tex/generic/unicode-data/CaseFolding.txt
-INPUT E:/Program Files/Miktex/tex/generic/unicode-data/SpecialCasing.txt
-INPUT E:/Program Files/Miktex/tex/latex/l3kernel/l3pdfmode.def
-INPUT E:/Program Files/Miktex/tex/latex/l3kernel/l3pdfmode.def
-INPUT E:/Program Files/Miktex/tex/latex/l3packages/xparse/xparse.sty
-INPUT E:/Program Files/Miktex/tex/latex/l3packages/xparse/xparse.sty
-INPUT E:/Program Files/Miktex/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT E:/Program Files/Miktex/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/translator.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/translator.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/translator.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/translator-language-mappings.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/translator-language-mappings.tex
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/abstract/abstract.sty
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/abstract/abstract.sty
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/hyperref.sty
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/hyperref.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/hobsub-generic.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/hobsub-generic.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/auxhook.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/auxhook.sty
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/pd1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/pd1enc.def
-INPUT E:/Program Files/Miktex/tex/latex/00miktex/hyperref.cfg
-INPUT E:/Program Files/Miktex/tex/latex/00miktex/hyperref.cfg
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/hpdftex.def
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/hpdftex.def
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT E:/Program Files/Miktex/tex/latex/xcharter/t1xcharter-tlf.fd
-INPUT E:/Program Files/Miktex/tex/latex/xcharter/t1xcharter-tlf.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/lbx/ngerman.lbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/lbx/ngerman.lbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/lbx/german.lbx
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/biblatex/lbx/german.lbx
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgflibraryfpu.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfmathfloat.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.coltype.code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/babel-german/ngerman.ldf
+INPUT c:/texlive/2016/texmf-dist/tex/generic/babel-german/ngerman.ldf
+INPUT c:/texlive/2016/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+INPUT c:/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/authortitle.cbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlayer.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/koma-script/scrlayer.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2016/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2016/texmf-dist/tex/generic/unicode-data/CaseFolding.txt
+INPUT c:/texlive/2016/texmf-dist/tex/generic/unicode-data/SpecialCasing.txt
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
+INPUT c:/texlive/2016/texmf-dist/tex/latex/abstract/abstract.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/abstract/abstract.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xcharter/t1xcharter-tlf.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/xcharter/t1xcharter-tlf.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+INPUT c:/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 INPUT document.aux
 INPUT document.aux
 OUTPUT document.aux
-INPUT E:/Program Files/Miktex/tex/latex/ly1/ly1ptm.fd
-INPUT E:/Program Files/Miktex/tex/latex/ly1/ly1ptm.fd
-INPUT E:/Program Files/Miktex/tex/latex/base/ts1cmr.fd
-INPUT E:/Program Files/Miktex/tex/latex/base/ts1cmr.fd
-INPUT E:/Program Files/Miktex/tex/context/base/supp-pdf.mkii
-INPUT E:/Program Files/Miktex/tex/context/base/supp-pdf.mkii
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/epstopdf-base.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/epstopdf-base.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/grfext.sty
-INPUT E:/Program Files/Miktex/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/ly1/ly1ptm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/ly1/ly1ptm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT document.bcf
 INPUT document.bbl
 INPUT document.bbl
 INPUT document.bbl
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/beamer/base/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx-abbreviations.cfg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/siunitx/siunitx-abbreviations.cfg
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/nameref.sty
-INPUT E:/Program Files/Miktex/tex/latex/hyperref/nameref.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/gettitlestring.sty
-INPUT E:/Program Files/Miktex/tex/generic/oberdiek/gettitlestring.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
+INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
+INPUT c:/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT document.out
 INPUT document.out
 INPUT document.out
@@ -406,199 +405,177 @@ OUTPUT document.pdf
 INPUT ./document.out
 INPUT ./document.out
 OUTPUT document.out
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/ot1ppl.fd
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/ot1ppl.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/omlzplm.fd
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/omlzplm.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/omszplm.fd
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/omszplm.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/omxzplm.fd
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/omxzplm.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/ot1zplm.fd
-INPUT E:/Program Files/Miktex/tex/latex/psnfss/ot1zplm.fd
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/cabin/t1cabin-tlf.fd
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/tex/latex/cabin/t1cabin-tlf.fd
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss12.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt12.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/omlzplm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/omlzplm.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/omszplm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/omszplm.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/omxzplm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/omxzplm.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/tex/latex/cabin/t1cabin-tlf.fd
+INPUT c:/texlive/2016/texmf-dist/tex/latex/cabin/t1cabin-tlf.fd
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT logo.jpg
 INPUT ./logo.jpg
 INPUT ./logo.jpg
-INPUT ./logo.jpg
-INPUT ./logo.jpg
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Bold-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1--base.tfm
-INPUT C:/Users/lukas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Bold-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Bold-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Bold-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Bold-tlf-t1--base.tfm
 INPUT document.toc
 INPUT document.toc
 OUTPUT document.toc
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Italic-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
 INPUT document.lof
 INPUT document.lof
 OUTPUT document.lof
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Italic-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Italic-tlf-t1--base.tfm
-INPUT wespe.jpg
-INPUT ./wespe.jpg
-INPUT ./wespe.jpg
-INPUT ./wespe.jpg
-INPUT ./wespe.jpg
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Regular-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1--base.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Italic-tlf-t1.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss9.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmss8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt9.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmtt8.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Regular-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1--base.tfm
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/vf/impallari/cabin/Cabin-Italic-tlf-t1.vf
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/tfm/impallari/cabin/Cabin-Italic-tlf-t1--base.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmmi10.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/adobe/palatino/pplr7t.vf
-INPUT E:/Program Files/Miktex/fonts/vf/public/mathpazo/zplmr7t.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/mathpazo/fplmr.tfm
-INPUT E:/Program Files/Miktex/fonts/tfm/public/cm/cmr10.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
-INPUT E:/Program Files/Miktex/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
-INPUT E:/Program Files/Miktex/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Italic-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Italic-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Italic-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Italic-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt9.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Regular-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Italic-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Italic-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/adobe/palatino/pplr7t.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/mathpazo/zplmr7t.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/xcharter/XCharter-Roman-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/xcharter/XCharter-Roman-tlf-t1--base.tfm
 INPUT paprika_editiert.jpg
-INPUT ./paprika_editiert.jpg
-INPUT ./paprika_editiert.jpg
 INPUT ./paprika_editiert.jpg
 INPUT ./paprika_editiert.jpg
 INPUT kieselgel.png
 INPUT ./kieselgel.png
 INPUT ./kieselgel.png
-INPUT ./kieselgel.png
-INPUT ./kieselgel.png
 INPUT Fragebogen.pdf
 INPUT ./Fragebogen.pdf
 INPUT ./Fragebogen.pdf
-INPUT ./Fragebogen.pdf
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/impallari/cabin/Cabin-Regular-tlf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/impallari/cabin/Cabin-Regular-tlf-t1--base.tfm
 INPUT document.aux
 INPUT ./document.out
 INPUT ./document.out
 INPUT document.run.xml
 OUTPUT document.run.xml
-INPUT E:/Program Files/Miktex/fonts/enc/dvips/fontname/8r.enc
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/cabin/cbn_aojlca.enc
-INPUT E:/Program Files/Miktex/fonts/enc/dvips/xcharter/xch_tuu2ww.enc
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Bold.pfb
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Bold.pfb
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Italic.pfb
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Italic.pfb
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Regular.pfb
-INPUT C:/Users/lukas/AppData/Roaming/MiKTeX/2.9/fonts/type1/impallari/cabin/Cabin-Regular.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/xcharter/XCharter-Bold.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/xcharter/XCharter-Bold.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/xcharter/XCharter-Italic.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/xcharter/XCharter-Italic.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/xcharter/XCharter-Roman.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/xcharter/XCharter-Roman.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/mathpazo/fplmri.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/public/mathpazo/fplmri.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/urw/palatino/uplr8a.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/urw/palatino/uplr8a.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/urw/palatino/uplri8a.pfb
-INPUT E:/Program Files/Miktex/fonts/type1/urw/palatino/uplri8a.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT c:/texlive/2016/texmf-dist/fonts/enc/dvips/cabin/cbn_aojlca.enc
+INPUT c:/texlive/2016/texmf-dist/fonts/enc/dvips/xcharter/xch_tuu2ww.enc
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/impallari/cabin/Cabin-Italic.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/impallari/cabin/Cabin-Regular.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/xcharter/XCharter-Bold.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/xcharter/XCharter-Italic.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/xcharter/XCharter-Roman.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb

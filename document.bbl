@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.7 $
+% $ biblatex bbl format version 2.8 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,23 +18,24 @@
 
 
 \refsection{0}
-  \sortlist[entry]{anyt/global/}
+  \sortlist[entry]{nty/global/}
     \entry{Downham.2000}{article}{}
       \name{author}{2}{}{%
-        {{hash=78f38b757168408dcfac94fd4840ce41}{%
+        {{uniquename=0,hash=78f38b757168408dcfac94fd4840ce41}{%
            family={Downham},
-           family_i={D\bibinitperiod},
+           familyi={D\bibinitperiod},
            given={Alison},
-           given_i={A\bibinitperiod}}}%
-        {{hash=85bbb1bac6f250af0005b809946c9984}{%
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=85bbb1bac6f250af0005b809946c9984}{%
            family={Collins},
-           family_i={C\bibinitperiod},
+           familyi={C\bibinitperiod},
            given={Paul},
-           given_i={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod}}}%
       }
       \strng{namehash}{98a57232af449c592081280b25e3a03d}
       \strng{fullhash}{98a57232af449c592081280b25e3a03d}
-      \field{labelalpha}{DC00}
+      \strng{authornamehash}{98a57232af449c592081280b25e3a03d}
+      \strng{authorfullhash}{98a57232af449c592081280b25e3a03d}
       \field{sortinit}{D}
       \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
       \field{labelnamesource}{author}
@@ -50,15 +51,15 @@
       \verb{doi}
       \verb 10.1046/j.1365-2621.2000.00373.x
       \endverb
-      \warn{\item Datamodel: Entry 'Downham.2000' (references.bib): Invalid format '03.10.2016' of date field 'urldate' - ignoring}
+      \warn{\item Entry 'Downham.2000' (references.bib): Invalid format '03.10.2016' of date field 'urldate' - ignoring}
     \endentry
     \entry{Hamatschek.2016}{book}{}
       \name{author}{1}{}{%
-        {{hash=f966faa21dc02accfa2f605deb80f1db}{%
+        {{uniquename=0,hash=f966faa21dc02accfa2f605deb80f1db}{%
            family={Hamatschek},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Jochen},
-           given_i={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Stuttgart}%
@@ -68,7 +69,8 @@
       }
       \strng{namehash}{f966faa21dc02accfa2f605deb80f1db}
       \strng{fullhash}{f966faa21dc02accfa2f605deb80f1db}
-      \field{labelalpha}{Ham16}
+      \strng{authornamehash}{f966faa21dc02accfa2f605deb80f1db}
+      \strng{authorfullhash}{f966faa21dc02accfa2f605deb80f1db}
       \field{sortinit}{H}
       \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
       \field{labelnamesource}{author}
@@ -81,13 +83,14 @@
     \endentry
     \entry{HarryMeggos.1995}{book}{}
       \name{author}{1}{}{%
-        {{hash=f8b69bf5765c29fbcf3599a7b1b539c5}{%
+        {{uniquename=0,hash=f8b69bf5765c29fbcf3599a7b1b539c5}{%
            family={{Harry Meggos}},
-           family_i={H\bibinitperiod}}}%
+           familyi={H\bibinitperiod}}}%
       }
       \strng{namehash}{f8b69bf5765c29fbcf3599a7b1b539c5}
       \strng{fullhash}{f8b69bf5765c29fbcf3599a7b1b539c5}
-      \field{labelalpha}{Har95}
+      \strng{authornamehash}{f8b69bf5765c29fbcf3599a7b1b539c5}
+      \strng{authorfullhash}{f8b69bf5765c29fbcf3599a7b1b539c5}
       \field{sortinit}{H}
       \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
       \field{labelnamesource}{author}
@@ -97,11 +100,11 @@
     \endentry
     \entry{Heinze.1986}{book}{}
       \name{editor}{1}{}{%
-        {{hash=b53e7b6641a893027a9a46c739d529f9}{%
+        {{uniquename=0,hash=b53e7b6641a893027a9a46c739d529f9}{%
            family={Heinze},
-           family_i={H\bibinitperiod},
+           familyi={H\bibinitperiod},
            given={Ulrich},
-           given_i={U\bibinitperiod}}}%
+           giveni={U\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Reinbek bei Hamburg}%
@@ -111,7 +114,8 @@
       }
       \strng{namehash}{b53e7b6641a893027a9a46c739d529f9}
       \strng{fullhash}{b53e7b6641a893027a9a46c739d529f9}
-      \field{labelalpha}{Hei86}
+      \strng{editornamehash}{b53e7b6641a893027a9a46c739d529f9}
+      \strng{editorfullhash}{b53e7b6641a893027a9a46c739d529f9}
       \field{sortinit}{H}
       \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
       \field{labelnamesource}{editor}
@@ -123,16 +127,16 @@
     \endentry
     \entry{Jenette.1983}{book}{}
       \name{author}{2}{}{%
-        {{hash=d9b7db4dcc1cc8d8f340a46f50cb5079}{%
+        {{uniquename=0,hash=d9b7db4dcc1cc8d8f340a46f50cb5079}{%
            family={Jenette},
-           family_i={J\bibinitperiod},
+           familyi={J\bibinitperiod},
            given={Alfred},
-           given_i={A\bibinitperiod}}}%
-        {{hash=0c59dad05f77044d9f1a9afdf568c5b0}{%
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=0c59dad05f77044d9f1a9afdf568c5b0}{%
            family={Glöckner},
-           family_i={G\bibinitperiod},
+           familyi={G\bibinitperiod},
            given={Wolfgang},
-           given_i={W\bibinitperiod}}}%
+           giveni={W\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Köln}%
@@ -142,7 +146,8 @@
       }
       \strng{namehash}{b9eedc0a751abd804067d920b7f71697}
       \strng{fullhash}{b9eedc0a751abd804067d920b7f71697}
-      \field{labelalpha}{JG83}
+      \strng{authornamehash}{b9eedc0a751abd804067d920b7f71697}
+      \strng{authorfullhash}{b9eedc0a751abd804067d920b7f71697}
       \field{sortinit}{J}
       \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
       \field{labelnamesource}{author}
@@ -156,13 +161,14 @@
     \endentry
     \entry{Natcol.2016}{misc}{}
       \name{author}{1}{}{%
-        {{hash=aac4861b4bf363cf52258725e6fe9b1d}{%
+        {{uniquename=0,hash=aac4861b4bf363cf52258725e6fe9b1d}{%
            family={Natcol},
-           family_i={N\bibinitperiod}}}%
+           familyi={N\bibinitperiod}}}%
       }
       \strng{namehash}{aac4861b4bf363cf52258725e6fe9b1d}
       \strng{fullhash}{aac4861b4bf363cf52258725e6fe9b1d}
-      \field{labelalpha}{Nat16}
+      \strng{authornamehash}{aac4861b4bf363cf52258725e6fe9b1d}
+      \strng{authorfullhash}{aac4861b4bf363cf52258725e6fe9b1d}
       \field{sortinit}{N}
       \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
       \field{labelnamesource}{author}
@@ -172,15 +178,15 @@
       \verb{url}
       \verb http://natcol.org/library/introduction-food-colours-legislation/
       \endverb
-      \warn{\item Datamodel: Entry 'Natcol.2016' (references.bib): Invalid format '05.10.2016' of date field 'urldate' - ignoring}
+      \warn{\item Entry 'Natcol.2016' (references.bib): Invalid format '05.10.2016' of date field 'urldate' - ignoring}
     \endentry
     \entry{Schobert.2007}{book}{}
       \name{author}{1}{}{%
-        {{hash=ec37f03124689491636388d2772e6e22}{%
+        {{uniquename=0,hash=ec37f03124689491636388d2772e6e22}{%
            family={Schobert},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Astrid},
-           given_i={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {München}%
@@ -190,7 +196,8 @@
       }
       \strng{namehash}{ec37f03124689491636388d2772e6e22}
       \strng{fullhash}{ec37f03124689491636388d2772e6e22}
-      \field{labelalpha}{Sch07}
+      \strng{authornamehash}{ec37f03124689491636388d2772e6e22}
+      \strng{authorfullhash}{ec37f03124689491636388d2772e6e22}
       \field{sortinit}{S}
       \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
       \field{labelnamesource}{author}
@@ -202,16 +209,16 @@
     \endentry
     \entry{Stahl.1986}{book}{}
       \name{author}{2}{}{%
-        {{hash=034ed64148c48c13466b58dd5fa147ff}{%
+        {{uniquename=0,hash=034ed64148c48c13466b58dd5fa147ff}{%
            family={Stahl},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Egon},
-           given_i={E\bibinitperiod}}}%
-        {{hash=f51918a57aa0acd3282354ee24dd66da}{%
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=f51918a57aa0acd3282354ee24dd66da}{%
            family={Schild},
-           family_i={S\bibinitperiod},
+           familyi={S\bibinitperiod},
            given={Werner},
-           given_i={W\bibinitperiod}}}%
+           giveni={W\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Stuttgart}%
@@ -221,7 +228,8 @@
       }
       \strng{namehash}{5a047427113eb2d6a3d4df8f15a74706}
       \strng{fullhash}{5a047427113eb2d6a3d4df8f15a74706}
-      \field{labelalpha}{SS86}
+      \strng{authornamehash}{5a047427113eb2d6a3d4df8f15a74706}
+      \strng{authorfullhash}{5a047427113eb2d6a3d4df8f15a74706}
       \field{sortinit}{S}
       \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
       \field{labelnamesource}{author}
@@ -230,10 +238,38 @@
       \field{title}{Isolierung und Charakterisierung von Naturstoffen: 2 Tabellen, 53 Formeln, 53 Spektren}
       \field{year}{1986}
     \endentry
+    \entry{Wittke.1992}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=846e02479473305bcf6a7d9558a9e204}{%
+           family={Wittke},
+           familyi={W\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt am Main}%
+      }
+      \list{publisher}{1}{%
+        {Diesterweg}%
+      }
+      \strng{namehash}{846e02479473305bcf6a7d9558a9e204}
+      \strng{fullhash}{846e02479473305bcf6a7d9558a9e204}
+      \strng{authornamehash}{846e02479473305bcf6a7d9558a9e204}
+      \strng{authorfullhash}{846e02479473305bcf6a7d9558a9e204}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3. Aufl.}
+      \field{isbn}{342505368x}
+      \field{series}{Studienbücher Chemie}
+      \field{title}{Farbstoffchemie}
+      \field{year}{1992}
+    \endentry
   \endsortlist
-  \missing{1984}
   \missing{EFSAisanagencyoftheEuropeanUnion.2016}
   \missing{Wittke}
+  \missing{1984}
 \endrefsection
 \endinput
 
